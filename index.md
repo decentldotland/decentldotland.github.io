@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+<p align="center">
+  <a href="https://decent.land">
+    <img src="./img/logo25.png" height="124">
+  </a>
+</p>
