@@ -1,4 +1,4 @@
-# Decent.Land Update #2
+# Decent.Land update #2
 
 ## Product development
   - Released metrics API for the ANS protocol - [ANS Stats on GitHub](https://github.com/decentldotland/ans-stats)
@@ -14,7 +14,7 @@
   - Integrating ANS with Permacast - [GitHub issue](https://github.com/Parallel-news/permacast/issues/49)
   - Internal testing of ANS integration with ViewBlock:
 
-![viewblock integration](../img/viewblock.jpg)
+![viewblock integration](https://github.com/decentldotland/decentldotland.github.io/blob/main/img/viewblock.jpg)
 
 ## Land - spaces for communities to settle in decent.land - is taking shape
 
