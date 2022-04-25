@@ -9,7 +9,7 @@
   - Improved our smart contract state evaluation by switching to [redstone.finance's SmartWeave implementation](https://github.com/redstone-finance/redstone-smartcontracts) for improved performance
 
 ## Ongoing developments:
-  - Adding support for ANS profile updates on the [ar.page](ar.page) UI.
+  - Adding support for ANS profile updates on the [ar.page](https://ar.page) UI.
   - Finalizing the UI of the Permaweb Explorer powered by the [weave-aggregator](https://github.com/decentldotland/weave-aggregator/tree/main/src), which will allow users to browse activity across permaweb applications in one place
   - Integrating ANS with Permacast - [GitHub issue](https://github.com/Parallel-news/permacast/issues/49)
   - Internal testing of ANS integration with ViewBlock. [image preview](https://github.com/decentldotland/decentldotland.github.io/blob/main/img/viewblock.jpg)
