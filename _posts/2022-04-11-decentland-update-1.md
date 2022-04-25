@@ -1,4 +1,4 @@
-# Decent.land update #1
+# Decent.Land update #1
 
 ## Product updates
  - ANS genesis domains [airdropped](https://twitter.com/ArweaveNews/status/1504476598753406984) to over 500 users
