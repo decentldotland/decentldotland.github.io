@@ -9,11 +9,11 @@ An interview with the founder Darwin and Art Director Lee discussed their vision
 
 The [decent.land]( https://decent.land/#home) team is growing with a marketing and a community manager joining us this month. Expect more community engagement and reach out to @minxzs or our [Telegram channel](https://t.me/decentland) for more.
 
-## Product development:
+## Product development
 
 * This week we finalized the UI of the Permaweb Explorer powered by the [weave-aggregator](https://github.com/decentldotland/weave-aggregator/tree/main/src)
 * ANS has been integrated with [Permacast](https://permacast.dev) which will be packaged as a module that can easily plug into any permaweb app.  
-## Ongoing development:
+## Ongoing development
 * Finalizing internal testing of the ANS profile edit feature, which will allow users to add custom bios, avatars and links.
 * A new better integration of ANS profiles (showing more metadata), working with Permacast on this [issue](https://github.com/Parallel-news/permacast/issues/52).
 ## Previous updates
