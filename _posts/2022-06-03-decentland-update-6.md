@@ -29,7 +29,7 @@ This week’s update marks three major product parts with significant performanc
 
 ### 2. Arweave Name Service - ANS
 
-- Finished the ANS 2.0 UI design (pre-implementation)
+- Finished the ANS 2.0 UI design (pre-implementation -- [sneak-peek!](https://github.com/decentldotland/decentldotland.github.io/blob/main/img/ans-ui-2.jpg))
 
 - Integrated Twitter meta properties on ar.page profiles, in addition to the following UX/UI enhancements [GitHub issue](https://github.com/nanofuxion/ANS_UI/issues/3).
 
