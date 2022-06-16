@@ -16,7 +16,7 @@ Missed the story? Read chapters [one](https://leetyrrell.medium.com/a-decent-lan
 
 ## Product development
 
-* We integrated [phaver.com](https://phaver.com/) in the Lenster feed. Now it aggregates from Lenster.xyz and phaver.com. Check the details [here](https://github.com/decentldotland/weave-aggregator/releases/tag/v0.3.4).
+* We integrated [phaver.com](https://phaver.com/) in the Lens Protocol feed. Now it aggregates from [Lenster.xyz](https://lenster.xyz) and phaver.com. Check the details [here](https://github.com/decentldotland/weave-aggregator/releases/tag/v0.3.4).
 * We published a drop-in module to utilize ANS identity badges in React apps. Check it [here](https://github.com/nanofuxion/ans-for-all). 
 * The [Lens protocol v4](https://github.com/decentldotland/public-square-ui/pull/4) was integrated into the upcoming public square UI. 
 * [Ark Network](https://github.com/decentldotland/ark-network), a protocol for linking verified multi-chain addresses (identities), which consists of an oracle address on Arweave network and other data registry contracts on EVM (and possibly non-EVM chains) with a validation backend, was finished. The protocol supports Telegram identity linkage with the multi-chain addresses as well.
