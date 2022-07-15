@@ -1,4 +1,4 @@
-# Decent land update #10
+# decent.land update #10
 
 Ark Protocol - a multichain identity bridge connecting Arweave to Ethereum, Polygon, Avalanche, BNB and more - is set for release next week, with the Ark NFTs following shortly after. Be on the lookout for opportunities to be rewarded as an early adopter or get on the NFT whitelist…
 
