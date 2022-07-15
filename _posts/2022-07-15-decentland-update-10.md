@@ -5,7 +5,7 @@ Ark Protocol - a multichain identity bridge connecting Arweave to Ethereum, Poly
 ## Shipped this week
 
 * Released [Ark network v.0.07](https://github.com/decentldotland/ark-network/compare/v0.0.6...v0.0.7) that comes with the Arweave Oracle source code v0.0.5 and minor upgrades to node performance.
-* Released [weave-agg-cache v0.0.5](https://github.com/decentldotland/weave-agg-cache/releases/tag/v0.0.5) that returns all of the metadata of a [MirrorXYZ](https://mirror.xyz/) article, powering [app.decent.land/explore](app.decent.land/explore)’s Mirror support 
+* Released [weave-agg-cache v0.0.5](https://github.com/decentldotland/weave-agg-cache/releases/tag/v0.0.5) that returns all of the metadata of a [MirrorXYZ](https://mirror.xyz/) article, powering [app.decent.land/explore](https://app.decent.land/explore)’s Mirror support 
 * Integrated [Avax Fuji Testnet](https://github.com/decentldotland/ark-network/releases/tag/v0.0.9) in the Ark Node - contract [here](https://testnet.snowtrace.io/address/0xdE44d3fB118E0f007f2C0D8fFFE98b994383949A)
 * Integrated [Metweave Permatweets](https://github.com/decentldotland/weave-aggregator/releases/tag/v0.3.7) feed in app.decent.land
 * Integrated Metweave Permatweets in [weave-agg-cache](https://github.com/decentldotland/weave-agg-cache/releases/tag/v0.0.6)
@@ -30,4 +30,4 @@ Last week we introduced a prequel to the decent.land story - Anthology of Arks. 
 * Adding more L1s to Ark Protocol 
 * Implementing the new ar.page design 
 * Building the UI for managing gated Telegram groups
-* Integration of Metaweave Permatweets in the [Permaweb Explorer](app.decent.land/explore)
+* Integration of Metaweave Permatweets in the [Permaweb Explorer](https://app.decent.land/explore)
