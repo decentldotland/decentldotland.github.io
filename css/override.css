@@ -65,3 +65,7 @@ body {
 .post-list {
   font-family: monospace, monospace;
 }
+
+* { 
+  background-color: #0a0e12;
+}
