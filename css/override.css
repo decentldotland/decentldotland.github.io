@@ -49,11 +49,13 @@ hr {
 }
 
 html {
+  background-color: #0a0e12;
   font-family: monospace, monospace;
 }
 
 body {
   font-family: monospace, monospace;
+  color: #cbc7c1;
 }
 
 .post-list-heading {
